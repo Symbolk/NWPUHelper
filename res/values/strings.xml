@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NWPU</string>
+    <string name="refresh">刷新</string>
+    <string name="search">搜索</string>
+    <string name="sliding_title">西北工业大学</string>
+    <string name="desc_list_item_icon">nwpu</string>
+    <string name="news">工大简介</string>
+    <string name="hint">网址导航</string>
+    <string name="car">校车时刻</string>
+    <string name="map">校园地图</string>
+    <string name="about">关于软件</string>
+    <string name="about1">西工大新生必备！（Android版）</string>
+     <string name="details">最全的校园咨询给迷茫的你最需要的帮助！</string>
+    <string name="version">版本：1.1.2</string>
+    <string name="author">作者：申博</string>
+    <string name="rate">打个分吧！</string>
+    <string name="exit">退出</string>
+<string name="intr">西北工业大学（Northwestern Polytechnical University）简称“西工大”，位于世界历史名城古都西安，是一所以发展航空、航天、航海工程教育和科学研究为特色，以工、理为主，管、文、经、法协调发展的研究型、多科性和开放式的科学技术大学，隶属于工业和信息化部，是“卓越大学联盟”成员高校，“中俄工科大学联盟”合作高校，国家“985工程”和“211工程”重点建设的高校，“111计划”、“卓越工程师教育培养计划”高校，国家2011计划“未来飞行器设计与制造共性基础技术协同创新中心”牵头高校。
+西北工业大学1960年被国务院确定为全国重点大学；“七五”、“八五”均被国务院列为重点建设的全国15所大学之一；“九五”首批进入国家“211工程”立项建设；“十五”进入国家“985工程”重点建设，是全国首批设立研究生院和国家大学科技园的高校之一。
+截至2013年，学校占地面积5100亩，其中友谊校区1200亩，长安校区3900亩。设有15个专业学院，61个本科专业，118个硕士点，69个博士点和16个博士后流动站。有2个一级学科国家重点学科，7个二级学科国家重点学科，2个学科国家重点培育学科，21个博士学位一级授权学科，31个硕士学位一级授权学科。建有1个国家重点实验室，6个国防科技重点实验室，2个国家工程中心（筹建），30个省部级重点实验室和20个省部级工程技术研究中心。有全日制在校生28883人，其中全日制博士研究生2984人，全日制硕士研究生7508人，本科生14495人，留学生649人。[1] 
+</string>    
+ 
+
+</resources>

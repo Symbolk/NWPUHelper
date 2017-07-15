@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home"> 工大首页：http://www.nwpu.edu.cn/</string>
+    <string name="welcome"> 工大迎新：http://yingxin.nwpu.edu.cn/</string>
+    <string name="bbs">三航四方BBS：http://bbs.nwpu.edu.cn/portal.php</string>
+    <string name="bt">蒲公英Bt站：http://pt.stuclub.cn/</string>
+    <string name="zone">翱翔门户：http://portal.nwpu.edu.cn/dcp/</string>
+</resources>
