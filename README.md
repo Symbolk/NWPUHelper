@@ -7,7 +7,7 @@
 
 _Powered By [@Symbolk](http://www.symbolk.com)_
 
-_Done 3 years ago as a fresh man myself_
+_Done as a fresh man myself in 2012_
 
 ## Overview
 
